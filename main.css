@@ -1,0 +1,12 @@
+form {
+  max-width: 40%;
+  margin: auto;
+  border: 5px solid greenyellow;
+  border-width: 10px 20px;
+  border-radius: 40px 20px;
+  padding: 10px;
+  text-align-last: center;
+}
+label {
+  white-space: 5px;
+}
